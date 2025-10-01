@@ -36,6 +36,7 @@ header {
   display:flex;
   gap: 10px;
   padding: 1px 5px;
+  
  background-color: #f4f4f4; 
  background-image: url("../images/red-waves.jpg");
 
